@@ -1,0 +1,2 @@
+class InitiativeCard < ApplicationRecord
+end
